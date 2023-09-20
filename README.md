@@ -1,5 +1,5 @@
 # Task Management Website 
-This website embodies the idea and exemplifies the use of a proper project file system. Furthermore, it implements the standard for project architecture using the MVC model.Also using the latest technology in database integration and manipulation.
+This website embodies the idea and exemplifies the use of a proper project file system. Furthermore, it implements the standard for project architecture using the MVC model.Also practices the use of the latest technology in database integration and manipulation.
 
 **Table of Contents**
 - Introduction
